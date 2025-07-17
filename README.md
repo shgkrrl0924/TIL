@@ -10,6 +10,10 @@
 
 ---
 
+## 🏆 Solved.ac
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shgkrrl123)](https://solved.ac/shgkrrl123)
+
 ## 🛠️ Tech Stack
 
 <p>
